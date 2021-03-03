@@ -1,4 +1,5 @@
-
+CREATE DATABASE [Examen-PlenarioSistemas];
+GO
 USE [Examen-PlenarioSistemas];
 -- EJERCICIOS DE DDL
 -- Crear base de datos
