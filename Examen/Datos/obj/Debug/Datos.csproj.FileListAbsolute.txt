@@ -1,0 +1,11 @@
+C:\Users\Carlos\source\repos\Examen\Datos\bin\Debug\Datos.dll.config
+C:\Users\Carlos\source\repos\Examen\Datos\bin\Debug\Datos.dll
+C:\Users\Carlos\source\repos\Examen\Datos\bin\Debug\Datos.pdb
+C:\Users\Carlos\source\repos\Examen\Datos\bin\Debug\EntityFramework.dll
+C:\Users\Carlos\source\repos\Examen\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Carlos\source\repos\Examen\Datos\bin\Debug\EntityFramework.xml
+C:\Users\Carlos\source\repos\Examen\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Carlos\source\repos\Examen\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\Examen\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Carlos\source\repos\Examen\Datos\obj\Debug\Datos.dll
+C:\Users\Carlos\source\repos\Examen\Datos\obj\Debug\Datos.pdb
