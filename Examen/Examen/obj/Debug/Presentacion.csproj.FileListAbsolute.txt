@@ -26,3 +26,31 @@ C:\Users\Carlos\source\repos\Examen\Examen\obj\Debug\Examen.TelefonoGrilla.resou
 C:\Users\Carlos\source\repos\Examen\Examen\obj\Debug\Examen.AgregarTelefono.resources
 C:\Users\Carlos\source\repos\Examen\Examen\obj\Debug\Examen.ModificarTelefono.resources
 C:\Users\Carlos\source\repos\Examen\Examen\obj\Debug\Examen.FormPrincipal.resources
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Examen\bin\Debug\Examen.exe.config
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Examen\bin\Debug\Entidades.dll
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Examen\bin\Debug\EntityFramework.dll
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Examen\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Examen\bin\Debug\Negocios.dll
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Examen\bin\Debug\Datos.dll
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Examen\bin\Debug\Entidades.pdb
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Examen\bin\Debug\Negocios.pdb
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Examen\bin\Debug\Negocios.dll.config
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Examen\bin\Debug\EntityFramework.xml
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Examen\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Examen\bin\Debug\Datos.pdb
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Examen\bin\Debug\Datos.dll.config
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Examen\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Examen\obj\Debug\Examen.AgregarPersona.resources
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Examen\obj\Debug\Examen.AgregarTelefono.resources
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Examen\obj\Debug\Examen.FormPrincipal.resources
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Examen\obj\Debug\Examen.ModificarPersona.resources
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Examen\obj\Debug\Examen.ModificarTelefono.resources
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Examen\obj\Debug\Examen.Properties.Resources.resources
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Examen\obj\Debug\Examen.TelefonoGrilla.resources
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Examen\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Examen\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Examen\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Examen\obj\Debug\Examen.exe
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Examen\obj\Debug\Examen.pdb

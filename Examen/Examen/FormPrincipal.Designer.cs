@@ -159,7 +159,7 @@ namespace Examen
             this.btn_reconectar.UseVisualStyleBackColor = true;
             this.btn_reconectar.Click += new System.EventHandler(this.btn_reconectar_Click);
             // 
-            // Form1
+            // FormPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -173,9 +173,9 @@ namespace Examen
             this.Controls.Add(this.btn_eliminarPersona);
             this.Controls.Add(this.btn_AgregarPersona);
             this.Controls.Add(this.dgv_Personas);
-            this.Name = "Form1";
+            this.Name = "FormPrincipal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
+            this.Text = "Examen-SistamasPlenario-CarlosCastro";
             ((System.ComponentModel.ISupportInitialize)(this.dgv_Personas)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -15,3 +15,20 @@ C:\Users\Carlos\source\repos\Examen\Negocios\obj\Debug\Negocios.csproj.CoreCompi
 C:\Users\Carlos\source\repos\Examen\Negocios\obj\Debug\Negocios.csproj.CopyComplete
 C:\Users\Carlos\source\repos\Examen\Negocios\obj\Debug\Negocios.dll
 C:\Users\Carlos\source\repos\Examen\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Negocios\bin\Debug\Negocios.dll.config
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Negocios\bin\Debug\Negocios.dll
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Negocios\bin\Debug\Datos.dll
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Negocios\bin\Debug\Entidades.dll
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Negocios\bin\Debug\EntityFramework.dll
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Negocios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Negocios\bin\Debug\Datos.pdb
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Negocios\bin\Debug\Datos.dll.config
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Negocios\bin\Debug\Entidades.pdb
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Negocios\bin\Debug\EntityFramework.xml
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Negocios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Negocios\obj\Debug\Negocios.dll
+C:\Users\Carlos\Desktop\Nueva carpeta (3)\Examen\Negocios\obj\Debug\Negocios.pdb
